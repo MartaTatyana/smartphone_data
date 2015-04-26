@@ -11,4 +11,4 @@ The R code file requires two packages "data.tables" and "reshape2". The code fil
 
 The code then performs manipulateions with data described in the CodeBook.md file.
 
-Finally the output file is saved in the working directory as .csv file.
+Finally the output file is saved in the working directory as .txt file.

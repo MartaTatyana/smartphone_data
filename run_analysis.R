@@ -45,4 +45,4 @@ total_melted<-melt(total_set,id=c("Subject","Activity"))
 
 total_tidy<-dcast(total_melted,Subject+Activity ~ variable, mean)
 
-write.csv(total_tidy, "tidy.csv", row.names=FALSE)
+write.csv(total_tidy, "tidy.txt", row.names=FALSE)

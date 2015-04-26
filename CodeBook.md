@@ -37,5 +37,5 @@ The rest of the tables were deemed unnessessary for the required analysis.
 * Descriptive names were given to the activities in the subsetted dataset.
 * The dataset was melted to have one variable measurememnt for each of the rows corresponding to the Subject/Activity combination.
 * The dataset was summarise to calculate Averages for all variables for each of the Subject/Activity combination.
-* Finally the tidy dataset was saved into "tidy.csv" file.
+* Finally the tidy dataset was saved into "tidy.txt" file.
 
